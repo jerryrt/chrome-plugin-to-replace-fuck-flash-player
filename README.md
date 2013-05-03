@@ -26,7 +26,7 @@ https://chrome.google.com/webstore/detail/ddfddmjlhkoabjekmjidfakeckoncmno/
 
 和其他安装 Chrome 插件一样，点击安装即可。
 
-## Broken link fix
+## Broken link fix[Jerry Tian]
 
 The above link is broken, I am just repacking the extension and put it here.
 
