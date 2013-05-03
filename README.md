@@ -26,6 +26,16 @@ https://chrome.google.com/webstore/detail/ddfddmjlhkoabjekmjidfakeckoncmno/
 
 和其他安装 Chrome 插件一样，点击安装即可。
 
+## Broken link fix
+
+The above link is broken, I am just repacking the extension and put it here.
+
+https://github.com/jerryrt/chrome-plugin-to-replace-fuck-flash-player/blob/master/dist/chrome-plugin-to-replace-fuck-flash-player.crx
+
+Download this crx, and follow this link to install the extension manually.
+
+http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/
+
 
 ## 捐赠
 
